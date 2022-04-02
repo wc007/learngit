@@ -7,3 +7,5 @@ Second edit.
 Third edit.
 
 Forth edit.
+
+Forth edit not saved.
