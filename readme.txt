@@ -17,3 +17,5 @@ Another edit on dev branch.
 Create a feature1 branch.
 
 Change on dev with no-ff.
+
+A bug is fixed on master branch.
