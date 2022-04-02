@@ -19,3 +19,5 @@ Create a feature1 branch.
 Change on dev with no-ff.
 
 A bug is fixed on master branch.
+
+Bug 201 is fixed.
